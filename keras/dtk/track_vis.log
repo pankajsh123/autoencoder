@@ -1,0 +1,65 @@
+    In folder 
+1   [08/11/17 23:14] ./track_vis brain1.trk 
+
+    In folder 
+2   [08/11/17 23:15] ./track_vis brain1.trk -skip 100 
+
+    In folder 
+3   [08/11/17 23:15] ./track_vis brain1.trk -skip 100 -nr 
+
+    In folder 
+4   [08/11/17 23:17] ./track_vis brain1.trk -skip 100 -aa 
+
+    In folder 
+5   [08/11/17 23:18] ./track_vis brain1.trk -skip 100 -ball 4 5 6 2 
+
+    In folder 
+6   [08/11/17 23:18] ./track_vis brain1.trk -skip 100 -ball 4 5 6 200 
+
+    In folder 
+7   [08/11/17 23:19] ./track_vis brain1.trk -skip 100 -r 
+
+    In folder 
+8   [08/11/17 23:19] ./track_vis brain1.trk -skip 100 -r 4 
+
+    In folder 
+9   [08/11/17 23:21] ./track_vis brain1.trk -skip 10 
+
+    In folder 
+10  [08/11/17 23:22] ./track_vis brain1.trk -skip 10 -odf_ns 5 
+
+    In folder 
+11  [08/11/17 23:22] ./track_vis brain1.trk -skip 10 -odf_ns 50 
+
+    In folder 
+12  [08/11/17 23:23] ./track_vis brain1.trk -skip 10 -odf_skip 
+
+    In folder 
+13  [08/11/17 23:23] ./track_vis brain1.trk -skip 10 -odf_skip 10 
+
+    In folder 
+14  [08/11/17 23:23] ./track_vis brain1.trk 
+
+    In folder 
+15  [08/12/17 12:10] ./track_vis brain1.trk 
+
+    In folder 
+16  [08/12/17 12:12] ./track_vis brain1.trk -skip 100 
+
+    In folder 
+17  [08/12/17 12:21] ./track_vis /home/pankaj/Downloads/dtk/brain1.trk 
+
+    In folder 
+18  [08/12/17 12:21] ./track_vis /home/pankaj/Documents/brain_fiber_classification/brain2_scan1_fiber_track_mni.trk 
+
+    In folder 
+19  [08/12/17 12:28] ./track_vis /home/pankaj/Downloads/dtk/brain1.trk 
+
+    In folder 
+20  [08/12/17 12:30] ./track_vis /home/pankaj/Downloads/dtk/brain1.trk 
+
+    In folder 
+21  [08/12/17 12:35] ./track_vis /home/pankaj/Downloads/dtk/brain1.trk-skipPY_VAR0 
+
+    In folder 
+22  [08/12/17 12:35] ./track_vis /home/pankaj/Downloads/dtk/brain1.trk -skip PY_VAR0 
